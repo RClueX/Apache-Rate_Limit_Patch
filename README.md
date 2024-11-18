@@ -1,5 +1,6 @@
 # Appache-Rate_Limit_Patch
-[Appache-Rate_Limit_Patch.pdf](https://github.com/user-attachments/files/17804066/Appache-Rate_Limit_Patch.pdf)
+[Appache-Rate_Limit_Patch.pdf](https://github.com/user-attachments/files/17804142/Appache-Rate_Limit_Patch.pdf)
+
 # Patch-1. Rate Limiting with `mod_ratelimit`
 
 Rate limiting is a technique used to limit how many requests a user can send in a short period, helping to prevent server overload and ensuring fair usage.
