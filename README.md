@@ -1,6 +1,5 @@
 # Appache-Rate_Limit_Patch
 
-[Appache-Rate_Limit_Patch.pdf](https://github.com/user-attachments/files/17804211/Appache-Rate_Limit_Patch.pdf)
 
 ## Patch-1. Rate Limiting with `mod_ratelimit`
 
@@ -85,3 +84,5 @@ sudo service apache2 restart
 ```
 
 
+
+[Appache-Rate_Limit_Patch.pdf](https://github.com/user-attachments/files/17804211/Appache-Rate_Limit_Patch.pdf)
