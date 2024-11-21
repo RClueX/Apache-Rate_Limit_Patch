@@ -1,4 +1,4 @@
-# Appache-Rate_Limit_Patch
+# Apache-Rate_Limit_Patch
 
 
 ## Patch-1. Rate Limiting with `mod_ratelimit`
