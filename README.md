@@ -84,5 +84,3 @@ sudo service apache2 restart
 ```
 
 
-
-[Appache-Rate_Limit_Patch.pdf](https://github.com/user-attachments/files/17804211/Appache-Rate_Limit_Patch.pdf)
